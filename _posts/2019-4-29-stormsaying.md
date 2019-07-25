@@ -1,11 +1,12 @@
+---
 layout: post
-title:风暴的自白
-date: 2019-06-02
+title: 风暴的自白
+date: 2019-4-29
 Author: 严钺
 categories: 
 tags: [Poems]
-
-comments: true
+comments: none
+--- 
 
 我善于用懒惰和自卑伪装起一种全然的骄傲，一时兴起看似华美的孔雀开屏只是这骄傲不经意的显露。
 
